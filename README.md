@@ -2,7 +2,13 @@
 ![image](https://github.com/user-attachments/assets/b1783c6d-426d-4260-af94-51a7c8238383)
 ![image](https://github.com/user-attachments/assets/3bb799dc-774d-4982-be86-8265cf883aed)
 ![image](https://github.com/user-attachments/assets/f5eedd1e-6ae6-4cac-a2ac-2d7a7e5971bd)
+-----------------------------------------------------------------------------------------
+When Product is clicked
+![image](https://github.com/user-attachments/assets/7019db51-8794-4cfc-b488-b30ff782bd3e)
 
+-----------------------------------------------------------------------------------------
+When in checkout
+![image](https://github.com/user-attachments/assets/e4ac704b-08c3-4734-bd4f-30dec0736535)
 
 IS601 Final Assignment: Bookstore
 Eric Varghese
